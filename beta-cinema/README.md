@@ -55,13 +55,6 @@ Business Analyst
 - Entity relationship diagram (ERD)
 
 ### Documentation
-- <a href="./deliverables/business-and-system-requirements-document.pdf" target="_blank">📄 Business and System Requirements Document</a>
-- <a href="./deliverables/uat-test-cases.pdf" target="_blank">📋 UAT Test Cases</a>
-- <a href="./deliverables/images/" target="_blank">🖼️ Diagrams</a>
+- <a href="./https://drive.google.com/file/d/1mrCOmCXlxPmVr3WBaJZbZhPYA-E-jmRv/view?usp=sharing" target="_blank">📄 Business and System Requirements Document</a>
+- <a href="./https://drive.google.com/file/d/1e0sQsCAoWfCl9FwLKfKt1OhhvEZ-DSMc/view?usp=sharing" target="_blank">📋 UAT Test Cases</a>
 
----
-
-## Attachments
-- <a href="./evidence-of-problems.md" target="_blank">🔍 Evidence of Problems</a>
-- <a href="./deliverables/images/" target="_blank">🖼️ Diagrams</a>
-- <a href="./deliverables/business-and-system-requirements-document.pdf" target="_blank">📄 Business and System Requirements Document</a>
