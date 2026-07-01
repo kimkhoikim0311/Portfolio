@@ -1,9 +1,9 @@
 # Nguyễn Kim Khôi
 **Business Analyst** &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; UI/UX Background
 
-📍 Hà Nội
-📧 kimkhoikim0311@gmail.com
-📞 0968 399 927
+📍 Hà Nội &nbsp;&nbsp;&nbsp;
+📧 kimkhoikim0311@gmail.com &nbsp;&nbsp;&nbsp;
+📞 0968 399 927 &nbsp;&nbsp;&nbsp;
 
 ---
 
