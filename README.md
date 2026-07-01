@@ -1,5 +1,5 @@
 # Nguyễn Kim Khôi
-**Business Analyst** | UI/UX Background
+**Business Analyst** &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp; UI/UX Background
 
 📍 Hà Nội
 📧 kimkhoikim0311@gmail.com
@@ -9,13 +9,13 @@
 
 ## About Me
 
-With a strong foundation in mathematics and hands-on UI/UX design experience, I found my real strength in analyzing requirements and structuring solutions — leading me to pursue Business Analysis as my primary career path, where I can bridge the gap between user needs and technical solutions.
+With a strong foundation in mathematics and hands-on UI/UX design experience, I found my real strength in analyzing requirements and structuring solutions - leading me to pursue Business Analysis as my primary career path, where I can bridge the gap between user needs and technical solutions.
 
 ---
 
 ## Projects
 
-### 🎬 Beta Cinema — Booking Reliability Enhancement Initiative
+### 🎬 Beta Cinema - Booking Reliability Enhancement Initiative
 **Role:** Business Analyst
 
 Beta Cinema is an online movie ticket booking application. Through analysis of user feedback, two critical issues were identified in the booking and payment process: a self-locking seat defect and ticket issuance failures after successful payment. This project delivers a full business analysis and system documentation package proposing solutions to both problems.
@@ -31,7 +31,7 @@ Beta Cinema is an online movie ticket booking application. Through analysis of u
 
 ---
 
-### 🎓 Online Learning Platform (Edumine)
+### 🎓 Online Learning Platform
 **Role:** UI/UX Designer
 
 An MVP design for an online learning platform that supports effective teaching and learning in a digital environment. The platform bridges the gap between teachers and learners by providing tools for course management, assignment workflows, and progress tracking.
@@ -44,7 +44,7 @@ An MVP design for an online learning platform that supports effective teaching a
 - UI design for web app (responsive + dark mode)
 - Usability testing and heuristic evaluation
 
-👉 [View project](./online-learning-platform/)
+👉 [View project](./online-learning-platform/) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 🎨 [Full visual case study on Behance](https://www.behance.net/gallery/246138163/Online-Learning-Platform)
 
 ---
