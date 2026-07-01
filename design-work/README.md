@@ -2,7 +2,7 @@
 
 ---
 
-## Background
+## From Design to Business Analysis
 
 Before transitioning into Business Analysis, I spent time developing hands-on UI/UX design skills - starting with an 8-month UI/UX Design program at MindX Technology School (2024 - 2025), followed by a role as UI/UX Designer at Capi Product (2025 - 2026), where I worked on real digital products across web and mobile platforms.
 
