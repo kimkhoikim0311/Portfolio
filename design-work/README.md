@@ -13,6 +13,7 @@ During this period, I was involved in the full design process — from user rese
 ## Experience
 
 | **Work** | UI/UX Designer — Capi Product (Oct 2025 – Mar 2026) |
+
 | **Tools** | Figma, Figma Make |
 
 ---
