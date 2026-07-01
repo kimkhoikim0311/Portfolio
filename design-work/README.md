@@ -13,7 +13,6 @@ During this period, I was involved in the full design process — from user rese
 ## Experience
 
 | | |
-|---|---|
 | **Work** | UI/UX Designer — Capi Product (Oct 2025 – Mar 2026) |
 | **Tools** | Figma, Figma Make |
 
@@ -25,6 +24,4 @@ A selection of design shots across mobile and web platforms is available on Drib
 
 👉 <a href="https://dribbble.com/NKK1103" target="_blank">View my design work on Dribbble</a>
 
-For a full case study of my most complete UI/UX project, see the Online Learning Platform.
 
-👉 <a href="../online-learning-platform/" target="_blank">View Online Learning Platform case study</a>
