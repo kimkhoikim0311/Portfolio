@@ -14,7 +14,6 @@ During this period, I was involved in the full design process — from user rese
 
 | | |
 |---|---|
-| **Training** | UI & UX Design — MindX Technology School (Jul 2024 – May 2025) |
 | **Work** | UI/UX Designer — Capi Product (Oct 2025 – Mar 2026) |
 | **Tools** | Figma, Figma Make |
 
