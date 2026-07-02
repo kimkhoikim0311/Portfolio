@@ -36,7 +36,6 @@ Beta Cinema is an online movie ticket booking application. Through analysis of u
 
 An MVP design for an online learning platform that supports effective teaching and learning in a digital environment. The platform bridges the gap between teachers and learners by providing tools for course management, assignment workflows, and progress tracking.
 
-**Design Process:** Discover → Define → Design → Testing
 
 **Key Deliverables:**
 - User research and competitor audit
