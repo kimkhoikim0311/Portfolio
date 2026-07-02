@@ -6,6 +6,7 @@ The following feedback was collected from real user reviews on the Beta Cinema a
 
 ## Problem 1 — Seat Reservation Inefficiency
 
+
 ![description](./1.png)
 ![description](./1.1.png)
 ![description](./1.2.png)
@@ -16,7 +17,9 @@ The following feedback was collected from real user reviews on the Beta Cinema a
 
 ## Problem 2 — Unissued Tickets Post-payment
 
+
 ![description](./2.png)
 ![description](./2.1.png)
 ![description](./2.2.png)
 ![description](./2.3.png)
+![description](./2.4.png)
