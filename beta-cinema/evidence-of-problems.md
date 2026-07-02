@@ -20,6 +20,5 @@ The following feedback was collected from real user reviews on the Beta Cinema a
 
 ![description](./2.png)
 ![description](./2.1.png)
-![description](./2.2.png)
 ![description](./2.3.png)
 ![description](./2.4.png)
