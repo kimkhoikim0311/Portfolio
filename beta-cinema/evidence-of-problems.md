@@ -9,7 +9,6 @@ The following feedback was collected from real user reviews on the Beta Cinema a
 
 ![description](./images/1.png)
 ![description](./images/1.1.png)
-![description](./images/1.2.png)
 ![description](./images/1.3.png)
 ![description](./images/1.4.png)
 ![description](./images/1.5.png)
