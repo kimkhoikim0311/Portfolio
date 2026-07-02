@@ -1,6 +1,6 @@
 # 🔍 Evidence of Problems
 
-The following examples were consolidated from public user reviews and observations of the current booking process. They represent the most common issues reported by users regarding seat reservation and payment-related transactions.
+The following feedback was collected from real user reviews on the Beta Cinema app store page (App Store and Google Play). They reflect genuine experiences reported by users regarding seat reservation and payment-related issues.
 
 ---
 
