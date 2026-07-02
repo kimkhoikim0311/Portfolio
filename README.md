@@ -60,4 +60,3 @@ Before transitioning into Business Analysis, I worked as a UI/UX Designer on dig
 
 - 📧 Email: kimkhoikim0311@gmail.com
 - 📞 Phone: 0968 399 927
-- 💼 LinkedIn: *(add your LinkedIn URL here)*
